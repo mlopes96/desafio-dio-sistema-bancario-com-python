@@ -1,6 +1,6 @@
 # Sistema Bancário com Python
 # Terceiro desafio de projeto da Formação Python da DIO
-# Versão criada por Matheus Lopes
+# Versão criada por Matheus Lopes.
 from abc import ABC, abstractclassmethod, abstractproperty
 from datetime import datetime
 
